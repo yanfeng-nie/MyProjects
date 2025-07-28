@@ -1,4 +1,4 @@
 # Algorithm
 ## Sorting Techniques
-- Heap Sort: ./heap_sort
-- Quick Sort: ./quick_sort
+- Heap Sort: ./heap_sort (Along with performance comparison)
+- Quick Sort: ./quick_sort (Along with performance comparison)
