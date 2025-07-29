@@ -59,7 +59,7 @@ double bucket_sort(int a[], vector<int> bucket[], int num, int w){
     
     double running_time = (double)(finish - start) / CLOCKS_PER_SEC * (double)1000;
 
-	cout<<"[STL] The array used to be compared is bucket-sorted out with sorting time: "<<endl;
+	cout<<"[BUCKET] The array used to be compared is bucket-sorted out with sorting time: "<<endl;
 	cout<<"    CLOCKS_PER_MILISEC: "<<running_time<<"(ms)"<<endl;
 	return running_time;
 }
